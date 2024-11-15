@@ -1,0 +1,34 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-06-06 17:53:22 +0000"
+    },
+    "done": true
+  },
+  "dead_guys_untitled_deep_dark_:deep_dark": {
+    "criteria": {
+      "deep_dark": "2024-06-06 17:53:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-06-06 17:53:22 +0000"
+    },
+    "done": true
+  },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2024-06-06 17:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-06-06 17:53:22 +0000",
+      "minecraft:desert": "2024-06-06 17:53:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
